@@ -1,0 +1,21 @@
+Lina Criativa — Página Dia dos Professores 2026
+
+Abra index.html para visualizar a página. Para colocar no seu domínio,
+envie index.html, styles.css, script.js e a pasta assets à sua hospedagem,
+mantendo a organização dos arquivos. A página não precisa de instalação.
+
+Os botões da bolsinha e do Super Pack já usam os dois links de checkout
+fornecidos. Os preços estão no bloco de ofertas; a hero está sem preço.
+
+As imagens e fontes são locais. As fotos abaixo da hero carregam conforme
+a navegação. A galeria, a ampliação de imagens e as perguntas frequentes
+funcionam sem bibliotecas externas. O Meta Pixel solicitado usa a biblioteca
+oficial da Meta, carregada de forma assíncrona: ID 1624133969244822,
+evento PageView.
+
+No bloco de antes/depois, o mesmo link de arte foi fornecido para Caixa Bis
+e Sacola Embalagem. Para substituir a arte da sacola, troque a referência
+do terceiro par em index.html pelo arquivo correto.
+
+O acesso aos arquivos, vídeo e suporte continua sendo organizado por você.
+Nenhum contato ou vídeo público foi inventado para a página.
